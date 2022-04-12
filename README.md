@@ -8,12 +8,14 @@
 
 <p align="center">
     <a href="#description">📙 Description</a>
-    <a href="#preview">🖼️ Preview</a>
     <a href="#tests">⚙️ Tests</a>
+    <a href="#documentation">📝 Swagger Documentation</a>
     <a href="#technologies">💻 Technologies</a>
 </p>
 
 <H2 id="description">📙 Description</H2>
+
+<h3>First part</h3>
 
 <p>Forth challenge from Ignite NodeJS module and it's about an API creation based on the SOLID concepts. The overall structure is pre-made and the task is to fill with the information needed.
 <p>This time it was way more challenging than the previous projects because of the amount of new concepts learned on the second chapter. Even though I had support of other people's codes, I got to review tons of things.</p>
@@ -21,7 +23,16 @@
 <p>Originally created on Ignite from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
 
 <p>
-    <h3><a href="https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72">Challenge description &rarr;</a></h3>
+    <h4><a href="https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72">Challenge description &rarr;</a></h5>
+</p>
+
+<h3>Second part</h3>
+
+<p>The second part of this project consisted in documenting all four routes using swagger.io tools. The documentation is available on <a href=http://localhost:3333/api-docs>http://localhost:3333/api-docs</a> after running the local server. You can check the page preview below on <a href="#documentation">this section </a> as well.</p>
+<p></p>
+<p>Originally created on Ignite from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
+<p>
+    <h4><a href="https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f">Challenge description &rarr;</a></h4>
 </p>
 
 ---
@@ -54,8 +65,17 @@
 
 ---
 
+<H2 id="documentation">📝 Swagger Documentation</H2>
+
+<section align="center">
+    <img alt="Documentation overview" src="./documentation.jpg"/>
+</section>
+
+---
+
 <H2 id="technologies">💻 Technologies</H2>
 
 - [x] <a href="https://nodejs.org/en/">NodeJS</a>
 - [x] <a href="https://expressjs.com/">ExpressJS</a>
 - [x] <a href="https://nodemon.io/">Nodemon</a>
+- [x] <a href="https://swagger.io/">Swagger</a>
